@@ -211,7 +211,7 @@ add comments above this one
 = "コマンドキーをメタとして扱う。\n\nNote that with this enabled, you won't be\nable to access menu entries with the\nkeyboard.";
 /* File: TerminalViewPrefs.m:747 */
 "Treat the Alt key as Alt and not Meta.\nUseful if command is used as Meta\nAnd the keyboard has AltGr and not right Alt\n"
-  = ""Treat the Alt key as Alt and not Meta.\nUseful if command is used as Meta\nAnd the keyboard has AltGr and not right Alt\n"";
+  = "Treat the Alt key as Alt and not Meta.\nUseful if command is used as Meta\nAnd the keyboard has AltGr and not right Alt\n";
 
 
 /*** Strings from TerminalWindow.m ***/
