@@ -1,0 +1,83 @@
+
+/** Affiche.m */
+"Info" = "情報";
+"File" = "ファイル";
+"Edit" = "編集";
+"Note" = "メモ";
+"Color" = "色";
+"Windows" = "ウィンドウ";
+"Print" = "印刷";
+"Services" = "サービス";
+"Hide" = "隠す";
+"Quit" = "終了";
+"Info Panel..." = "Afficheについて...";
+"Preferences..." = "設定...";
+"Help..." = "ヘルプ...";
+"New Note" = "新規メモ";
+"Close" = "閉じる";
+"Save All" = "全て保存";
+"Import Text" = "テキストのインポート";
+"Export Text" = "テキストのエクスポート";
+"Cut" = "切り取り";
+"Copy" = "コピー";
+"Paste" = "貼り付け";
+"Delete" = "削除";
+"Select All" = "全選択";
+"Format" = "書式";
+"Note Info" = "メモ情報";
+"Blue" = "青";
+"Gray" = "灰";
+"Green" = "緑";
+"Purple" = "紫";
+"Yellow" = "黄";
+
+/** ColorView.m */
+
+/** Constants.m */
+
+/** LabelWidget.m */
+
+/** Note.m */
+
+/** NoteInfoWindow.m */
+"Creation date:" = "作成日:";
+"Modification date:" = "更新日:";
+"Title:" = "タイトル:";
+"No title" = "No title";
+"First line of note" = "First line of note";
+"Custom" = "カスタム";
+
+/** NoteInfoWindowController.m */
+"Note Information" = "メモ情報";
+
+/** NoteView.m */
+
+/** NoteWindow.m */
+
+/** NoteWindowController.m */
+"Closing a note..." = "Closing a note...";
+"Would you like to save this note (%@...)\nto a file?" = "Would you like to save this note (%@...)\nto a file?";
+"Cancel" = "キャンセル";
+"Yes" = "はい";
+"No" = "いいえ";
+
+/** PreferencesPanel.m */
+"Font:" = "フォント:";
+"Set..." = "Set...";
+"Color:" = "色:";
+/* "Blue" =  "Blue"; */
+/* "Gray" =  "Gray"; */
+/* "Green" =  "Green"; */
+/* "Purple" =  "Purple"; */
+/* "Yellow" =  "Yellow"; */
+"Title bar" = "Title bar";
+"Note content" = "Note content";
+"Position:" = "位置:";
+/* "Title:" =  "タイトル:"; */
+/* "No title" =  "無題"; */
+/* "First line of note" =  "First line of note"; */
+/* "Custom" =  "Custom"; */
+"Defaults used when creating a new note:" = "Defaults used when creating a new note:";
+
+/** PreferencesPanelController.m */
+/* "Preferences..." =  "Preferences..."; */
