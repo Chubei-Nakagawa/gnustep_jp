@@ -1,0 +1,27 @@
+{
+    "## Comment" = "Do NOT change this file, Gorm maintains it";
+    AppDelegate = {
+	Actions = (
+	);
+	Outlets = (
+	);
+	Super = NSObject;
+    };
+    FirstResponder = {
+	Actions = (
+	    "enterPageNumber:",
+	    "firstPage:",
+	    "lastPage:",
+	    "toggleFitHeight:",
+	    "nextPage:",
+	    "previousPage:",
+	    "toggleFitPage:",
+	    "toggleFitWidth:",
+	    "zoomActualSize:",
+	    "zoomIn:",
+	    "zoomOut:",
+	    "zoomToFit:"
+	);
+	Super = NSObject;
+    };
+}
