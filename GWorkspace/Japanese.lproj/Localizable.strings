@@ -9,7 +9,7 @@
 
 "File" = "File";
 	"Open" = "開く";
-	"Open With..." = "Open With...";
+	"Open With..." = "アプリケーションを指定して開く...";
 	"Open as Folder" = "フォルダを開く";
 	"Edit File" = "編集";
 	"New Folder" = "新規フォルダ";
@@ -25,7 +25,7 @@
 	"Paste" = "貼り付け";
 	"Select All" = "すべて選択";
 		
-"View" = "View";
+"View" = "表示";
 	"Browser" = "ブラウザ";
 	"Icon" = "アイコン";
 	"List" = "リスト";
@@ -42,21 +42,21 @@
 	"Label Size" = "ラベルサイズ";
         "Make thumbnail(s)" = "サムネイルの作成";
         "Remove thumbnail(s)" = "サムネイルの削除";
-	"Viewer" = "Viewer";
+	"Viewer" = "ビューワ";
 		
 "Tools" = "ツール";
-	"Inspectors" = "Inspectors";
-		"Show Inspectors" = "Inspectorsの表示";
+	"Inspectors" = "インスペクタ";
+		"Show Inspectors" = "インスペクタの表示";
 		"Attributes" = "属性";
-		"Contents" = "Contents";
+		"Contents" = "コンテンツ";
 		"Annotations" = "Annotations";	
 	"Finder" = "Finder";
 	"Fiend" = "Fiend";
-		"Show Fiend" = "Show Fiend";
-		"Hide Fiend" = "Hide Fiend";
+		"Show Fiend" = "Fiendを表示";
+		"Hide Fiend" = "Fiendを隠す";
 		"Add Layer..." = "Add Layer...";
-		"Remove Current Layer" = "Remove Current Layer";
-		"Rename Current Layer" = "Rename Current Layer";
+		"Remove Current Layer" = "現レイヤの削除";
+		"Rename Current Layer" = "現レイヤの名前変更";
 		"Layers" = "Layers";
 	"Tabbed Shelf" = "Tabbed Shelf";	
 		"Show Tabbed Shelf" = "Show Tabbed Shelf";
@@ -70,14 +70,14 @@
 		"Show History" = "ヒストリの表示";
 		"Go backward" = "Go backward";
 		"Go forward" = "Go forward";
-	"Show Desktop" = "Desktopの表示";
-        "Hide Desktop" = "Desktopの非表示";
-	"Show Recycler" = "Recyclerの表示";
-        "Hide Recycler" = "Recyclerの非表示";
+	"Show Desktop" = "デスクトップの表示";
+        "Hide Desktop" = "デスクトップの非表示";
+	"Show Recycler" = "リサイクラの表示";
+        "Hide Recycler" = "リサイクラの非表示";
 	"Check for disks" = "Check for disks";
 	
 "Windows" = "ウィンドウ";
-	"Arrange in Front" = "Arrange in Front";
+	"Arrange in Front" = "全面に表示";
 	"Miniaturize Window" = "最小化";
 	"Close Window" = "閉じる";
 	
@@ -85,7 +85,7 @@
 
 "Hide" = "隠す";
 "Hide Others" = "他を隠す";
-"Show All" = "Show All";
+"Show All" = "全て表示";
 
 "Print..." = "印刷...";
 
@@ -105,12 +105,12 @@
 "You have not write permission\nfor" = "You do not have write permission\nfor";
 "Continue" = "Continue";
 
-"File Viewer" = "File Viewer";
+"File Viewer" = "ファイルビューワ";
 
-"Quit!" = "Quit";
-"Do you really want to quit?" = "Do you really want to quit?";
-"Yes" = "Yes";
-"No" = "No";
+"Quit!" = "終了";
+"Do you really want to quit?" = "終了しますか?";
+"Yes" = "はい";
+"No" = "いいえ";
 
 "Log out" = "ログアウト";
 "Are you sure you want to quit\nall applications and log out now?" = "Are you sure you want to quit\nall applications and log out now?";
@@ -128,9 +128,9 @@
 "Link" = "Link";
 "Link " = "Link ";
 "Delete" = "削除";
-"Delete the selected objects?" = "Delete the selected objects?";
+"Delete the selected objects?" = "選択したオブジェクトを削除しますか?";
 "Duplicate" = "複製";
-"Duplicate the selected objects?" = "Duplicate the selected objects?";
+"Duplicate the selected objects?" = "選択したオブジェクトを複製しますか?";
 "From:" = "From:";
 "To:" = "To:";
 "In:" = "In:";
@@ -139,8 +139,8 @@
 "Moving" = "Moving";
 "Copying" = "Copying";
 "Linking" = "Linking";
-"Duplicating" = "Duplicating";
-"Destroying" = "Destroying";
+"Duplicating" = "複製中";
+"Destroying" = "削除中";
 "File Operation Completed" = "File Operation Completed";
 "Backgrounder connection died!" = "Background connection died!";
 "Some items have the same name;\ndo you want to substitute them?" = "Some items have the same name;\ndo you want to substitute them?";
@@ -151,22 +151,22 @@
 
 "You have not write permission\nfor " = "You do not have write permission\nfor ";
 "The name " = "The name ";
-" is already in use!" = " is already in use!";
+" is already in use!" = "は使用中です!";
 "Cannot rename " = "Cannot rename ";
-"Invalid char in name" = "Invalid character in name";
+"Invalid char in name" = "名前に使用できない文字が含まれています";
 
 
 /* ----------------------------- Viewers Strings ----------------------------- *\
 
 /* GWViewer.m */
-"free" = "free";
+"free" = "フリー";
 
 /* GWViewersManager.m */
 
 "Are you sure you want to open" = "Are you sure you want to open";
 "items?" = "items?";
-"error" = "error";
-"Can't open " = "Can't open ";
+"error" = "エラー";
+"Can't open " = "開けません ";
 
 
 /* ---------------------------- Inspectors strings --------------------------- *\
@@ -174,7 +174,7 @@
 
 /* Attributes.m */
 
-"Attributes Inspector" = "Attributes Inspector";
+"Attributes Inspector" = "アトリビュートインスペクタ";
 "Path:" = "Path:";
 "Link to:" = "Link To:";
 "Size:" = "Size:";
@@ -195,7 +195,7 @@
 
 /* ContentsPanel.m */
 
-"Contents Inspector" = "Contents Inspector";
+"Contents Inspector" = "コンテンツインスペクタ";
 "No Contents Inspector" = "No Contents Inspector";
 "No Contents Inspector\nFor Multiple Selection" = "No Contents Inspector\nfor Multiple Selection";
 "No Contents Inspectors found!" = "No Contents Inspectors found!";
@@ -208,24 +208,24 @@
 "Sort by" = "Sort by";
 "Name" = "名前";
 "Date" = "日付";
-"Folder Inspector" = "Folder Inspector";	
+"Folder Inspector" = "フォルダインスペクタ";	
 
 
 /* ImageViewer.m */
 
-"Image Inspector" = "Image Inspector";
+"Image Inspector" = "イメージインスペクタ";
 
 
 /* AppViewer.m */
 
 "Open these kinds of documents:" = "Open these kinds of documents:";
 "Invalid Contents" = "Invalid Contents";
-"App Inspector" = "App Inspector";
+"App Inspector" = "アプリインスペクタ";
 
 
 /* Tools.m */
 
-"Tools Inspector" = "Tools Inspector";
+"Tools Inspector" = "ツールインスペクタ";
 "No Tools Inspector" = "No Tools Inspector";
 "Set Default" = "Set Default";
 
@@ -234,7 +234,7 @@
 
 /* Finder.m */
 
-"Finder" = "Finder";
+"Finder" = "ファインダ";
 "No selection!" = "No selection!";
 "No arguments!" = "No arguments!";
 "Search in:" = "Search in:";
@@ -248,7 +248,7 @@
 
 
 /* names */
-"contains" = "contains";
+"contains" = "含む";
 "is" = "is";
 "contains not" = "contains not";
 "starts with" = "starts with";
@@ -256,7 +256,7 @@
 "name" = "Name";
 
 /* size */
-"size"="Size";
+"size"="サイズ";
 "greater than"="greater than";
 "less than"="less than";
 
@@ -268,11 +268,11 @@
 "without one of"="without one of";
 
 /* owner */
-"owner"="Owner";
+"owner"="所有者";
 
 /* date */
-"date created"="Date created";
-"date modified"="Date modified";
+"date created"="作成日";
+"date modified"="更新日";
 "is today" = "is today";
 "is within" = "is within";
 "is before" = "is before";
@@ -294,13 +294,13 @@
 "type"="Type";
 "is not" = "is not";
 "plain file" = "Plain file";
-"folder" = "Folder";
+"folder" = "フォルダ";
 "tool" = "Tool";
-"symbolic link" = "Symbolic link";
-"application" = "Application";
+"symbolic link" = "シンボリックリンク";
+"application" = "アプリケーション";
 
 /* contents */
-"contents"="Contents";
+"contents"="コンテンツ";
 "includes"="includes";
 
 
@@ -308,7 +308,7 @@
 
 /* Fiend.m */
 
-"New Layer" = "New Layer";
+"New Layer" = "新規レイヤ";
 "A layer with this name is already present!" = "A layer with this name is already present!";
 "You can't remove the last layer!" = "You can't remove the last layer!";
 "Remove layer" = "Remove layer";
@@ -322,28 +322,28 @@
 
 /* PreferencesWin.m */
 
-"GWorkspace Preferences" = "GWorkspace Preferences";
+"GWorkspace Preferences" = "GWorkspaceの設定";
 
 
 /* XTermPref.m */    
-"Terminal" = "Terminal";
+"Terminal" = "ターミナル";
 "Set" = "Set";
 "Use Terminal service" = "Use Terminal service";
-"arguments" = "arguments";
+"arguments" = "引数";
 
 	
 /* BrowserViewerPref.m */  
 
-"Column Width" = "Column Width";
-"Use Default Settings" = "Use Default Settings";	
+"Column Width" = "カラム幅";
+"Use Default Settings" = "デフォルト値を使用";	
 
 	
 /* DefaultEditor.m */
 
-"Editor" = "Editor";
-"Default Editor" = "Default Editor";
-"No Default Editor" = "No Default Editor";
-"Choose" = "Choose";
+"Editor" = "エディタ";
+"Default Editor" = "デフォルトエディタ";
+"No Default Editor" = "デフォルトエディタ無し";
+"Choose" = "選択";
 
 /* DefSortOrderPref.m */
 "Sorting Order" = "Sorting Order";
