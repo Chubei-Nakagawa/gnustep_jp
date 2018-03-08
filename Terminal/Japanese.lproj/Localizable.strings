@@ -1,4 +1,4 @@
-/***
+﻿/***
 English.lproj/Localizable.strings
 updated by make_strings 2010-01-15 20:24:14 +0100
 add comments above this one
@@ -211,7 +211,7 @@ add comments above this one
 = "コマンドキーをメタとして扱う。\n\nNote that with this enabled, you won't be\nable to access menu entries with the\nkeyboard.";
 /* File: TerminalViewPrefs.m:747 */
 "Treat the Alt key as Alt and not Meta.\nUseful if command is used as Meta\nAnd the keyboard has AltGr and not right Alt\n"
-  = "Treat the Alt key as Alt and not Meta.\nUseful if command is used as Meta\nAnd the keyboard has AltGr and not right Alt\n";
+  = "AltキーをMetaではなくAltとして扱う\n\nUseful if command is used as Meta\nAnd the keyboard has AltGr and not right Alt\n";
 
 
 /*** Strings from TerminalWindow.m ***/
@@ -262,7 +262,7 @@ add comments above this one
 /* File: main.m:178 */
 "Paste" = "貼り付け";
 /* File: main.m:150 */
-"Preferences..." = "環境設定...";
+"Preferences..." = "設定...";
 /* File: main.m:205 */
 "Quit" = "終了";
 /* File: main.m:197 */
