@@ -1,13 +1,13 @@
 ﻿/* ----------------------- menu strings --------------------------- */
 /* main.m */
 
-"Info" = "Info";
-	"Info Panel..." = "Info Panel...";
+"Info" = "情報";
+	"Info Panel..." = "情報パネル...";
 	"Preferences..." = "設定...";
-	"Help..." = "ヘルプ...";
-	"Activate context help" = "Activate context help";
+	"Help..." = "Help...";
+	"Activate context help" = "コンテキストヘルプ";
 
-"File" = "File";
+"File" = "ファイル";
 	"Open" = "開く";
 	"Open With..." = "アプリケーションを指定して開く...";
 	"Open as Folder" = "フォルダを開く";
@@ -26,7 +26,7 @@
 	"Select All" = "すべて選択";
 		
 "View" = "表示";
-	"Browser" = "ブラウザ";
+	"Browser" = "Browser";
 	"Icon" = "アイコン";
 	"List" = "リスト";
 	"Show" = "表示";
@@ -50,31 +50,31 @@
 		"Attributes" = "属性";
 		"Contents" = "コンテンツ";
 		"Annotations" = "Annotations";	
-	"Finder" = "Finder";
+	"Finder" = "検索ツール";
 	"Fiend" = "Fiend";
 		"Show Fiend" = "Fiendを表示";
 		"Hide Fiend" = "Fiendを隠す";
-		"Add Layer..." = "Add Layer...";
+		"Add Layer..." = "レイヤの追加...";
 		"Remove Current Layer" = "現レイヤの削除";
 		"Rename Current Layer" = "現レイヤの名前変更";
-		"Layers" = "Layers";
-	"Tabbed Shelf" = "Tabbed Shelf";	
-		"Show Tabbed Shelf" = "Show Tabbed Shelf";
-                "Hide Tabbed Shelf" = "Hide Tabbed Shelf";
-		"Remove Current Tab" = "Remove Current Tab";
+		"Layers" = "レイヤ";
+	"Tabbed Shelf" = "シェルフ";	
+		"Show Tabbed Shelf" = "シェルフの表示";
+                "Hide Tabbed Shelf" = "シェルフの非表示";
+		"Remove Current Tab" = "タブの削除";
 		"Rename Current Tab" = "タブの名前変更";
-		"Add Tab..." = "Add Tab...";
+		"Add Tab..." = "タブの追加...";
 	"Terminal" = "ターミナル";
 	"Run..." = "実行...";
 	"History" = "ヒストリ";
 		"Show History" = "ヒストリの表示";
-		"Go backward" = "Go backward";
-		"Go forward" = "Go forward";
+		"Go backward" = "戻る";
+		"Go forward" = "次へ";
 	"Show Desktop" = "デスクトップの表示";
         "Hide Desktop" = "デスクトップの非表示";
-	"Show Recycler" = "リサイクラの表示";
-        "Hide Recycler" = "リサイクラの非表示";
-	"Check for disks" = "Check for disks";
+	"Show Recycler" = "ゴミ箱の表示";
+        "Hide Recycler" = "ゴミ箱の非表示";
+	"Check for disks" = "ディスクのチェック";
 	
 "Windows" = "ウィンドウ";
 	"Arrange in Front" = "全面に表示";
@@ -113,20 +113,20 @@
 "No" = "いいえ";
 
 "Log out" = "ログアウト";
-"Are you sure you want to quit\nall applications and log out now?" = "Are you sure you want to quit\nall applications and log out now?";
-"If you do nothing, the system will log out\nautomatically in " = "If you do nothing, the system will log out\nautomatically in ";
-"seconds." = "seconds.";
+"Are you sure you want to quit\nall applications and log out now?" = "全てのアプリケーションを終了して¥nログアウトしますか?";
+"If you do nothing, the system will log out\nautomatically in " = "自動的に";
+"seconds." = "秒後にログアウトします。";
 
 /* FileOperation.m */
 
 "OK" = "OK";
 "Cancel" = "Cancel";
 "Move" = "移動";
-"Move from: " = "移動 from: ";
-"\nto: " = "\nto: ";
-"Copy from: " = "コピー from: ";
-"Link" = "Link";
-"Link " = "Link ";
+"Move from: " = "移動元: ";
+"\nto: " = "\n先: ";
+"Copy from: " = "コピー元: ";
+"Link" = "リンク";
+"Link " = "リンク ";
 "Delete" = "削除";
 "Delete the selected objects?" = "選択したオブジェクトを削除しますか?";
 "Duplicate" = "複製";
@@ -136,24 +136,24 @@
 "In:" = "In:";
 "Stop" = "Stop";
 "Pause" = "Pause";
-"Moving" = "Moving";
-"Copying" = "Copying";
-"Linking" = "Linking";
+"Moving" = "移動中";
+"Copying" = "コピー中";
+"Linking" = "リンク作成中";
 "Duplicating" = "複製中";
 "Destroying" = "削除中";
-"File Operation Completed" = "File Operation Completed";
+"File Operation Completed" = "ファイル操作が終了しました";
 "Backgrounder connection died!" = "Background connection died!";
 "Some items have the same name;\ndo you want to substitute them?" = "Some items have the same name;\ndo you want to substitute them?";
-"File Operation Error!" = "File Operation Error!";
+"File Operation Error!" = "ファイル操作中にエラーが発生しました!";
 
 
 /* ColumnIcon.m */
 
-"You have not write permission\nfor " = "You do not have write permission\nfor ";
-"The name " = "The name ";
-" is already in use!" = "は使用中です!";
+"You have not write permission\nfor " = "次の場所の書き込み権限がありません\n ";
+"The name " = "名前 ";
+" is already in use!" = " は使用されています!";
 "Cannot rename " = "Cannot rename ";
-"Invalid char in name" = "名前に使用できない文字が含まれています";
+"Invalid char in name" = "名前に使用できない文字が含まれています:";
 
 
 /* ----------------------------- Viewers Strings ----------------------------- *\
@@ -326,8 +326,8 @@
 
 
 /* XTermPref.m */    
-"Terminal" = "ターミナル";
-"Set" = "Set";
+"Terminal" = "Terminal";
+"Set" = "設定";
 "Use Terminal service" = "Use Terminal service";
 "arguments" = "引数";
 
@@ -340,8 +340,8 @@
 	
 /* DefaultEditor.m */
 
-"Editor" = "エディタ";
-"Default Editor" = "デフォルトエディタ";
+"Editor" = "Editor";
+"Default Editor" = "Default Editor";
 "No Default Editor" = "デフォルトエディタ無し";
 "Choose" = "選択";
 
@@ -378,11 +378,11 @@
 "scale" = "Scale";
 
 "Use image"="Use image";
-"Choose"="Choose";
+"Choose"="選択";
 
 "Dock" = "Dock";
 "Show Dock"="Show Dock";
-"Position:"="Position:";
+"Position:"="位置:";
 
 "Style:"="Style:";
 "Left"="左";
