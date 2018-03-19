@@ -1,0 +1,39 @@
+﻿/* alert panel messages */
+"new_game" = "Start a new game with these Preferences?";
+"no_hint"  = "I don't have a hint.";
+"no_undo"  = "No more moves to undo.";
+
+"draw_game" = "引き分け";
+"black_win" = "黒の勝ち";
+"white_win" = "白の勝ち";
+"you_win"   = "The game is over.\nCongratulations, you win.";
+
+"exit_chess" = "チェスを終了しますか?";
+
+/* alert panel buttons */
+"Yes" = "はい";
+"No" = "いいえ";
+
+/* window title messages */
+"Chess";
+"Chess:  ";
+"   :   ";
+"1 Undo  ";
+"%d Undos  ";
+"1 Hint";
+"%d Hints";
+
+"Illegal move";
+"Black's move";
+"White's move";
+"Illegal Move!!";
+"Ambiguous Move!";
+"Black is in check";
+"White is in check";
+
+/* preferences panel messages */
+"%d moves in %d minutes";
+"%d move in %d minutes";
+
+/* black/white player */
+"Computer";
