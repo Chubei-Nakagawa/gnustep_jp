@@ -4,7 +4,7 @@
 "Info" = "情報";
 	"Info Panel..." = "情報パネル...";
 	"Preferences..." = "設定...";
-	"Help..." = "Help...";
+	"Help..." = "ヘルプ...";
 	"Activate context help" = "コンテキストヘルプ";
 
 "File" = "ファイル";
@@ -17,7 +17,7 @@
 	"Duplicate" = "複製";
 	"Destroy" = "削除";
 	"Move to Recycler" = "ごみ箱に捨てる";
-	"Empty Recycler" = "こみ箱を空に";
+	"Empty Recycler" = "こみ箱を空にする";
 
 "Edit" = "編集";
 	"Cut" = "切り取り";
@@ -279,7 +279,7 @@
 "is after" = "is after";
 "is exactly" = "is exactly";
 "the last day" = "the last day";
-"the last 2 days" = "the last 2 days";
+"the last 2 days" = "2日以内";
 "the last 3 days" =  "the last 3 days";
 "the last week" = "the last week";
 "the last 2 weeks" = "the last 2 weeks";
@@ -424,7 +424,7 @@
 "\nto the Recycler" = "\nto the Recycler";
 "Move from the Recycler " = "Move from the Recycler ";
 "In" = "In";
-"Empty Recycler" = "Empty Recycler";
-"Empty the Recycler?" = "Empty the Recycler?";
+"Empty Recycler" = "ゴミ箱を空にする";
+"Empty the Recycler?" = "ゴミ箱を空にしますか?";
 "Put Away" = "Put Away";
 
