@@ -1,0 +1,35 @@
+/* Japanese */
+{
+  NSLanguageName = "Japanese";
+  NSLanguageCode = JPN;
+  NSFormalName = "Japanese";
+  
+  NSCurrencySymbol = "円";
+  NSPositiveCurrencyFormatString = "9,999.00円";
+  NSNegativeCurrencyFormatString = "-9,999.00円";
+  NSInternationalCurrencyString = "JPY";
+
+  NSDecimalDigits = ("0", "1", "2", "3", "4", "5", "6", "7", "8", "9");
+  NSDecimalSeparator = ".";
+  NSThousandsSeparator = ",";
+
+  NSAMPMDesignation = ("午前", "午後");
+  NSDateFormatString = "%Y年%B%d日 %A";
+  NSDateTimeOrdering = YMDH;
+  NSEarlierTimeDesignations = (prior, last, past, ago);
+  NSHourNameDesignations = ((0, "真夜中"), (12, "正午", "昼食"), (10, "朝"), (14, "午後"), (19, "夕食"));
+  NSLaterTimeDesignations = ("先");
+  NSMonthNameArray = ("1月", "2月", "3月", "4月", "5月", "6月", "7月", "8月", "9月", "10月", "11月", "12月");
+  NSNextDayDesignations = ("明日");
+  NSNextNextDayDesignations = ("明後日");
+  NSPriorDayDesignations = ("昨日");
+  NSShortDateFormatString = "%Y/%m/%d";
+  NSShortMonthNameArray = ("1月", "2月", "3月", "4月", "5月", "6月", "7月", "8月", "9月", "10月", "11月", "12月");
+  NSShortTimeDateFormatString = "%Y %b %d %H:%M";
+  NSShortWeekDayNameArray = ("日", "月", "火", "水", "木", "金", "土"); 
+  NSThisDayDesignations = ("今日");
+  NSTimeDateFormatString = "%Y年%b%d日(%a) %H:%M:%S %z";
+  NSTimeFormatString = "%H:%M:%S";
+  NSWeekDayNameArray = ("日曜日", "月曜日", "火曜日", "水曜日", "木曜日", "金曜日", "土曜日");
+  NSYearMonthWeekDesignations = ("年", "月", "週");
+}
