@@ -1,0 +1,35 @@
+{
+    "## Comment" = "Do NOT change this file, Gorm maintains it";
+    ColorSchemes = {
+	Actions = (
+	    "settingsAction:",
+	    "styleAction:",
+	    "apply:",
+	    "colorChanged:"
+	);
+	Outlets = (
+	    "_window",
+	    colorSettings,
+	    colorWell,
+	    preview,
+	    style
+	);
+	Super = NSObject;
+    };
+    FirstResponder = {
+	Actions = (
+	    "apply:",
+	    "colorChanged:",
+	    "settingsAction:",
+	    "styleAction:"
+	);
+	Super = NSObject;
+    };
+    PreviewView = {
+	Actions = (
+	);
+	Outlets = (
+	);
+	Super = NSView;
+    };
+}
