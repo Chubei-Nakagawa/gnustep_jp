@@ -12,14 +12,14 @@ add comments above this one
 /* File: ../Source/NSApplication.m:2891 */
 /* Comment: Title of the Info Panel */
 /* File: ../Source/NSMenu.m:259 */
-"Info" = "\u60c5\u5831";
+"Info" = "情報";
 
 /* File: ../Source/GSNibLoading.m:166 */
 /* Comment: Quit */
 /* File: ../Source/NSApplication.m:3455 */
 /* File: ../Source/NSApplication.m:4220 */
 /* File: ../Source/NSDocumentController.m:1015 */
-"Quit" = "\u7d42\u4e86";
+"Quit" = "終了";
 
 /* File: ../Source/NSAlert.m:384 */
 /* File: ../Source/NSDocument.m:485 */
@@ -30,11 +30,11 @@ add comments above this one
 /* File: ../Source/NSSavePanel.m:318 */
 /* File: ../Source/NSSavePanel.m:1333 */
 /* File: ../Source/NSSavePanel.m:1406 */
-"Cancel" = "\u30ad\u30e3\u30f3\u30bb\u30eb";
+"Cancel" = "キャンセル";
 
 /* File: ../Source/NSAlert.m:389 */
 /* File: ../Source/NSDocument.m:485 */
-"Don't Save" = "\u4fdd\u5b58\u3057\u306a\u3044";
+"Don't Save" = "保存しない";
 
 /* File: ../Source/NSDocument.m:485 */
 /* File: ../Source/NSDocument.m:832 */
@@ -45,7 +45,7 @@ add comments above this one
 /* File: ../Source/NSSavePanel.m:1382 */
 /* File: ../Source/NSSavePanel.m:1393 */
 /* File: ../Source/NSSavePanel.m:1404 */
-"Save" = "\u4fdd\u5b58";
+"Save" = "保存";
 
 /* File: ../Source/GSHelpManagerPanel.m:101 */
 /* File: ../Source/NSAlert.m:1837 */
@@ -57,16 +57,16 @@ add comments above this one
 /* File: ../Source/GSPrintOperation.m:157 */
 /* File: ../Source/NSSavePanel.m:1384 */
 /* File: ../Source/NSSavePanel.m:1395 */
-"Dismiss" = "\u5374\u4e0b";
+"Dismiss" = "却下";
 
 /* File: ../Source/GSPrintOperation.m:155 */
 /* File: ../Source/NSFontPanel.m:706 */
-"Preview" = "\u30d7\u30ec\u30d3\u30e5\u30fc";
+"Preview" = "プレビュー";
 
 /* File: ../Source/NSDocument.m:1686 */
 /* File: ../Source/NSDocument.m:1688 */
 /* File: ../Source/NSFontPanel.m:696 */
-"Revert" = "\u5143\u306b\u623b\u3059";
+"Revert" = "元に戻す";
 
 /* File: ../Source/NSColorPanel.m:245 */
 /* File: ../Source/NSToolbarItem.m:1076 */
@@ -80,15 +80,15 @@ add comments above this one
 
 /* File: ../Source/GSHelpManagerPanel.m:70 */
 /* File: ../Source/NSHelpPanel.m:154 */
-"Help" = "\u30d8\u30eb\u30d7";
+"Help" = "ヘルプ";
 
 /* File: ../Source/NSDocument.m:1137 */
 /* File: ../Source/NSPrintPanel.m:350 */
-"File Type" = "\u30d5\u30a1\u30a4\u30eb\u30bf\u30a4\u30d7";
+"File Type" = "ファイルタイプ";
 
 /* File: ../Source/GSCharacterPanel.m:173 */
 /* File: ../Source/NSPageLayout.m:959 */
-"Name" = "\u540d\u524d";
+"Name" = "名前";
 
 /* File: ../Source/GSCharacterPanel.m:154 */
 /* File: ../Source/NSFontPanel.m:738 */
@@ -118,15 +118,15 @@ add comments above this one
 
 /*** Strings from ../Source/GSInfoPanel.m ***/
 /* File: ../Source/GSInfoPanel.m:451 */
-"Author: " = "\u4f5c\u8005: ";
+"Author: " = "作者: ";
 /* File: ../Source/GSInfoPanel.m:455 */
-"Authors: " = "\u4f5c\u8005: ";
+"Authors: " = "作者: ";
 /* File: ../Source/GSInfoPanel.m:396 */
 "Copyright Information Not Available"
-  = "\u8457\u4f5c\u6a29\u60c5\u5831\u4e0d\u660e";
+  = "著作権情報不明";
 /* File: ../Source/GSInfoPanel.m:187 */
 /* File: ../Source/GSInfoPanel.m:482 */
-"Current theme" = "\u30ab\u30ec\u30f3\u30c8\u30c6\u30fc\u30de";
+"Current theme" = "カレントテーマ";
 /* File: ../Source/GSInfoPanel.m:339 */
 "Release: " = "Release: ";
 
@@ -152,18 +152,18 @@ add comments above this one
 
 /*** Strings from ../Source/GSThemeInspector.m ***/
 /* File: ../Source/GSThemeInspector.m:141 */
-"Version: %@" = "\u30d0\u30fc\u30b8\u30e7\u30f3: %@";
+"Version: %@" = "バージョン: %@";
 
 
 /*** Strings from ../Source/GSThemePanel.m ***/
 /* File: ../Source/GSThemePanel.m:197 */
 /* File: ../Source/GSThemePanel.m:229 */
-"Make this the default theme" = "\u30c7\u30d5\u30a9\u30eb\u30c8\u30c6\u30fc\u30de\u306b\u8a2d\u5b9a";
+"Make this the default theme" = "デフォルトテーマに設定";
 /* File: ../Source/GSThemePanel.m:234 */
 /* File: ../Source/GSThemePanel.m:193 */
-"Revert default theme" = "\u30c7\u30d5\u30a9\u30eb\u30c8\u30c6\u30fc\u30de\u306b\u623b\u3059";
+"Revert default theme" = "デフォルトテーマに戻す";
 /* File: ../Source/GSThemePanel.m:115 */
-"Themes" = "\u30c6\u30fc\u30de";
+"Themes" = "テーマ";
 
 
 /*** Strings from ../Source/GSToolbarView.m ***/
@@ -173,14 +173,14 @@ add comments above this one
 
 /*** Strings from ../Source/NSAlert.m ***/
 /* File: ../Source/NSAlert.m:2007 */
-"Alert" = "\u8b66\u544a";
+"Alert" = "警告";
 /* File: ../Source/NSAlert.m:2008 */
-"No information" = "\u60c5\u5831\u306a\u3057";
+"No information" = "情報なし";
 
 
 /*** Strings from ../Source/NSApplication.m ***/
 /* File: ../Source/NSApplication.m:138 */
-"Abort" = "\u30a2\u30dc\u30fc\u30c8";
+"Abort" = "アボート";
 /* File: ../Source/NSApplication.m:323 */
 "Backend at path %@ doesn't contain the GSBackend class"
   = "Backend at path %@ doesn't contain the GSBackend class";
@@ -213,10 +213,10 @@ add comments above this one
 /*** Strings from ../Source/NSAttributedString.m ***/
 /* File: ../Source/NSAttributedString.m:927 */
 /* Comment: Error description */
-"Could not load data from URL." = "URL\u5148\u306e\u30c7\u30fc\u30bf\u3092\u8aad\u307f\u8fbc\u3081\u307e\u305b\u3093\u3002";
+"Could not load data from URL." = "URL先のデータを読み込めません。";
 /* File: ../Source/NSAttributedString.m:863 */
 /* Comment: Error description */
-"Could not load data." = "\u30c7\u30fc\u30bf\u3092\u8aad\u307f\u8fbc\u3081\u307e\u305b\u3093\u3002";
+"Could not load data." = "データを読み込めません。";
 /* File: ../Source/NSAttributedString.m:762 */
 /* Comment: Error description */
 "No data specified for data loading."
@@ -232,17 +232,17 @@ add comments above this one
 /* File: ../Source/NSBitmapImageRep.m:1646 */
 "CCITTFAX4 Compression" = "CCITTFAX4 Compression";
 /* File: ../Source/NSBitmapImageRep.m:1648 */
-"JPEG Compression" = "JPEG\u5727\u7e2e";
+"JPEG Compression" = "JPEG圧縮";
 /* File: ../Source/NSBitmapImageRep.m:1647 */
-"LZW Compression" = "LZW\u5727\u7e2e";
+"LZW Compression" = "LZW圧縮";
 /* File: ../Source/NSBitmapImageRep.m:1649 */
 "NEXT Compression" = "NEXT Compression";
 /* File: ../Source/NSBitmapImageRep.m:1644 */
-"No Compression" = "\u975e\u5727\u7e2e";
+"No Compression" = "非圧縮";
 /* File: ../Source/NSBitmapImageRep.m:1651 */
-"Old JPEG Compression" = "\u53e4\u3044JPEG\u5727\u7e2e";
+"Old JPEG Compression" = "古いJPEG圧縮";
 /* File: ../Source/NSBitmapImageRep.m:1650 */
-"PackBits Compression" = "PackBits\u5727\u7e2e";
+"PackBits Compression" = "PackBits圧縮";
 
 
 /*** Strings from ../Source/NSColorPanel.m ***/
@@ -274,23 +274,23 @@ add comments above this one
 /*** Strings from ../Source/NSDocument.m ***/
 /* File: ../Source/NSDocument.m:1687 */
 "%@ has been edited.  Are you sure you want to undo changes?"
-  = "%@ \u306f\u7de8\u96c6\u3055\u308c\u3066\u3044\u307e\u3059\u3002\u5909\u66f4\u3092\u5143\u306b\u623b\u3057\u307e\u3059\u304b?";
+  = "%@ は編集されています。変更を元に戻しますか?";
 /* File: ../Source/NSDocument.m:484 */
-"%@ has changed.  Save?" = "%@ \u306f\u5909\u66f4\u3055\u308c\u3066\u3044\u307e\u3059.\u4fdd\u5b58\u3057\u307e\u3059\u304b?";
+"%@ has changed.  Save?" = "%@ は変更されています.保存しますか?";
 /* File: ../Source/NSDocument.m:831 */
 "Can't create backup file.  Save anyways?"
   = "Can't create backup file.  Save anyways?";
 /* File: ../Source/NSDocument.m:483 */
-"Close" = "\u9589\u3058\u308b";
+"Close" = "閉じる";
 /* File: ../Source/NSDocument.m:153 */
-"Could not load URL %@." = "URL %@ \u3092\u8aad\u307f\u8fbc\u3081\u307e\u305b\u3093\u3067\u3057\u305f\u3002";
+"Could not load URL %@." = "URL %@ を読み込めませんでした。";
 /* File: ../Source/NSDocument.m:130 */
-"Could not load file %@." = "\u30d5\u30a1\u30a4\u30eb %@ \u3092\u8aad\u307f\u8fbc\u3081\u307e\u305b\u3093\u3067\u3057\u305f\u3002";
+"Could not load file %@." = "ファイル %@ を読み込めませんでした。";
 /* File: ../Source/NSDocument.m:917 */
 /* Comment: Error description */
 /* File: ../Source/NSDocument.m:957 */
 /* Comment: Error description */
-"Could not write backup file." = "\u30d0\u30c3\u30af\u30a2\u30c3\u30d7\u30d5\u30a1\u30a4\u30eb\u3092\u66f8\u304d\u8fbc\u3081\u307e\u305b\u3093\u3002";
+"Could not write backup file." = "バックアップファイルを書き込めません。";
 /* File: ../Source/NSDocument.m:1029 */
 /* Comment: Error description */
 "Could not write file wrapper." = "Could not write file wrapper.";
@@ -301,13 +301,13 @@ add comments above this one
 "File wrapper is no file." = "File wrapper is no file.";
 /* File: ../Source/NSDocument.m:152 */
 /* File: ../Source/NSDocument.m:129 */
-"Load failed" = "\u8aad\u307f\u8fbc\u307f\u5931\u6557";
+"Load failed" = "読み込み失敗";
 /* File: ../Source/NSDocument.m:935 */
 /* Comment: Error description */
 "Not a writable type or no URL given."
   = "Not a writable type or no URL given.";
 /* File: ../Source/NSDocument.m:1207 */
-"Save As" = "\u540d\u524d\u3092\u3064\u3051\u3066\u4fdd\u5b58";
+"Save As" = "名前をつけて保存";
 /* File: ../Source/NSDocument.m:1208 */
 "Save To" = "Save To";
 /* File: ../Source/NSDocument.m:580 */
@@ -318,7 +318,7 @@ add comments above this one
 /* File: ../Source/NSDocumentController.m:1671 */
 "Clear List" = "Clear List";
 /* File: ../Source/NSDocumentController.m:1022 */
-"Power Off" = "\u96fb\u6e90\u30aa\u30d5";
+"Power Off" = "電源オフ";
 /* File: ../Source/NSDocumentController.m:974 */
 /* File: ../Source/NSDocumentController.m:932 */
 "Quit Anyway" = "Quit Anyway";
@@ -327,7 +327,7 @@ add comments above this one
 "Review Unsaved" = "Review Unsaved";
 /* File: ../Source/NSDocumentController.m:979 */
 /* File: ../Source/NSDocumentController.m:929 */
-"You have unsaved documents" = "\u4fdd\u5b58\u3057\u3066\u3044\u306a\u3044\u30c9\u30ad\u30e5\u30e1\u30f3\u30c8\u304c\u3042\u308a\u307e\u3059";
+"You have unsaved documents" = "保存していないドキュメントがあります";
 
 
 /*** Strings from ../Source/NSFontPanel.m ***/
@@ -353,12 +353,12 @@ add comments above this one
 
 /*** Strings from ../Source/NSMenu.m ***/
 /* File: ../Source/NSMenu.m:260 */
-"Services" = "\u30b5\u30fc\u30d3\u30b9";
+"Services" = "サービス";
 
 
 /*** Strings from ../Source/NSOpenPanel.m ***/
 /* File: ../Source/NSOpenPanel.m:92 */
-"Open" = "\u958b\u304f";
+"Open" = "開く";
 
 
 /*** Strings from ../Source/NSPageLayout.m ***/
@@ -366,30 +366,30 @@ add comments above this one
 /* File: ../Source/NSPageLayout.m:739 */
 "(none)" = "(none)";
 /* File: ../Source/NSPageLayout.m:964 */
-"Bottom Margin" = "\u4e0b\u30de\u30fc\u30b8\u30f3";
+"Bottom Margin" = "下マージン";
 /* File: ../Source/NSPageLayout.m:960 */
 "Dimensions" = "Dimensions";
 /* File: ../Source/NSPageLayout.m:1020 */
 "Landscape" = "Landscape";
 /* File: ../Source/NSPageLayout.m:965 */
-"Left Margin" = "\u5de6\u30de\u30fc\u30b8\u30f3";
+"Left Margin" = "左マージン";
 /* File: ../Source/NSPageLayout.m:961 */
 "Orientation" = "Orientation";
 /* File: ../Source/NSPageLayout.m:1016 */
 "Portrait" = "Portrait";
 /* File: ../Source/NSPageLayout.m:966 */
-"Right Margin" = "\u53f3\u30de\u30fc\u30b8\u30f3";
+"Right Margin" = "右マージン";
 /* File: ../Source/NSPageLayout.m:962 */
-"Scale" = "\u30b9\u30b1\u30fc\u30eb";
+"Scale" = "スケール";
 /* File: ../Source/NSPageLayout.m:963 */
-"Top Margin" = "\u4e0a\u30de\u30fc\u30b8\u30f3";
+"Top Margin" = "上マージン";
 
 
 /*** Strings from ../Source/NSPrintOperation.m ***/
 /* File: ../Source/NSPrintOperation.m:677 */
-"Error" = "\u30a8\u30e9\u30fc";
+"Error" = "エラー";
 /* File: ../Source/NSPrintOperation.m:677 */
-"Printing error: %@" = "\u5370\u5237\u30a8\u30e9\u30fc: %@";
+"Printing error: %@" = "印刷エラー: %@";
 
 
 /*** Strings from ../Source/NSPrintPanel.m ***/
@@ -418,38 +418,38 @@ add comments above this one
 
 /*** Strings from ../Source/NSSavePanel.m ***/
 /* File: ../Source/NSSavePanel.m:277 */
-"Home" = "\u30db\u30fc\u30e0";
+"Home" = "ホーム";
 /* File: ../Source/NSSavePanel.m:293 */
-"Mount" = "\u30de\u30a6\u30f3\u30c8";
+"Mount" = "マウント";
 /* File: ../Source/NSSavePanel.m:434 */
 /* File: ../Source/NSSavePanel.m:251 */
-"Name:" = "\u540d\u524d:";
+"Name:" = "名前:";
 /* File: ../Source/NSSavePanel.m:1371 */
-"No" = "\u3044\u3044\u3048";
+"No" = "いいえ";
 /* File: ../Source/NSSavePanel.m:1797 */
 "Reading Directory " = "Reading Directory ";
 /* File: ../Source/NSSavePanel.m:1406 */
-"Replace" = "\u7f6e\u304d\u63db\u3048";
+"Replace" = "置き換え";
 /* File: ../Source/NSSavePanel.m:242 */
-"Show Hidden Files" = "\u96a0\u3057\u30d5\u30a1\u30a4\u30eb\u3092\u8868\u793a\u3059\u308b";
+"Show Hidden Files" = "隠しファイルを表示する";
 /* File: ../Source/NSSavePanel.m:1383 */
 "The directory '%@' could not be created."
-  = "The directory '%@' \u3092\u4f5c\u6210\u3067\u304d\u307e\u305b\u3093\u3002";
+  = "The directory '%@' を作成できません。";
 /* File: ../Source/NSSavePanel.m:1370 */
 "The directory '%@' does not exist, do you want to create it?"
-  = "\u30c7\u30a3\u30ec\u30af\u30c8\u30ea '%@' \u306f\u5b58\u5728\u3057\u307e\u305b\u3093\u3002\u4f5c\u6210\u3057\u307e\u3059\u304b?";
+  = "ディレクトリ '%@' は存在しません。作成しますか?";
 /* File: ../Source/NSSavePanel.m:1405 */
 "The file '%@' in '%@' exists. Replace it?"
-  = "\u30d5\u30a1\u30a4\u30eb '%@' \u306f '%@' \u306b\u5b58\u5728\u3057\u307e\u3059\u3002\u7f6e\u304d\u63db\u3048\u307e\u3059\u304b?";
+  = "ファイル '%@' は '%@' に存在します。置き換えますか?";
 /* File: ../Source/NSSavePanel.m:1394 */
-"The path '%@' is not a directory." = "'%@' \u306f\u30c7\u30a3\u30ec\u30af\u30c8\u30ea\u3067\u306f\u3042\u308a\u307e\u305b\u3093\u3002";
+"The path '%@' is not a directory." = "'%@' はディレクトリではありません。";
 /* File: ../Source/NSSavePanel.m:309 */
-"Unmount" = "\u30a2\u30f3\u30de\u30a6\u30f3\u30c8";
+"Unmount" = "アンマウント";
 /* File: ../Source/NSSavePanel.m:1326 */
 /* File: ../Source/NSSavePanel.m:1318 */
 "Use .%@" = "Use .%@";
 /* File: ../Source/NSSavePanel.m:1371 */
-"Yes" = "\u306f\u3044";
+"Yes" = "はい";
 /* File: ../Source/NSSavePanel.m:1325 */
 "You cannot save this document with extension '.%@'.\nThe required extension is '.%@'."
   = "You cannot save this document with extension '.%@'.\nThe required extension is '.%@'.";
@@ -465,32 +465,32 @@ add comments above this one
 
 /*** Strings from ../Source/NSTextView.m ***/
 /* File: ../Source/NSTextView.m:652 */
-"Copy" = "\u30b3\u30d4\u30fc";
+"Copy" = "コピー";
 /* File: ../Source/NSTextView.m:651 */
-"Cut" = "\u5207\u308a\u53d6\u308a";
+"Cut" = "切り取り";
 /* File: ../Source/NSTextView.m:5904 */
 "No Suggestions" = "No Suggestions";
 /* File: ../Source/NSTextView.m:653 */
-"Paste" = "\u8cbc\u308a\u4ed8\u3051";
+"Paste" = "貼り付け";
 
 
 /*** Strings from ../Source/NSToolbarItem.m ***/
 /* File: ../Source/NSToolbarItem.m:1122 */
-"Customize" = "\u30ab\u30b9\u30bf\u30de\u30a4\u30ba";
+"Customize" = "カスタマイズ";
 /* File: ../Source/NSToolbarItem.m:1021 */
 "Flexible Space" = "Flexible Space";
 /* File: ../Source/NSToolbarItem.m:1099 */
-"Fonts" = "\u30d5\u30a9\u30f3\u30c8";
+"Fonts" = "フォント";
 /* File: ../Source/NSToolbarItem.m:1145 */
-"Print..." = "\u5370\u5237...";
+"Print..." = "印刷...";
 /* File: ../Source/NSToolbarItem.m:949 */
-"Separator" = "\u30bb\u30d1\u30ec\u30fc\u30bf";
+"Separator" = "セパレータ";
 /* File: ../Source/NSToolbarItem.m:991 */
-"Space" = "\u30b9\u30da\u30fc\u30b9";
+"Space" = "スペース";
 
 
 /*** Strings from ../Source/NSWindow.m ***/
 /* File: ../Source/NSWindow.m:5322 */
-"Hide Toolbar" = "\u30c4\u30fc\u30eb\u30d0\u30fc\u3092\u96a0\u3059";
+"Hide Toolbar" = "ツールバーを隠す";
 /* File: ../Source/NSWindow.m:5324 */
-"Show Toolbar" = "\u30c4\u30fc\u30eb\u30d0\u30fc\u3092\u8868\u793a";
+"Show Toolbar" = "ツールバーを表示";
